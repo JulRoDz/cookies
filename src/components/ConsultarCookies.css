@@ -1,0 +1,31 @@
+.consultar-cookies-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.consultar-cookies-container h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.respuestas-formato-crudo {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: monospace;
+  white-space: pre-wrap;
+}
+
+.respuestas-formato-legible {
+  list-style: none;
+  padding: 0;
+}
+
+.respuestas-formato-legible li {
+  margin-bottom: 5px;
+  border-bottom: 1px solid #eee;
+  padding: 5px;
+}
